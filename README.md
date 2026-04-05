@@ -1,5 +1,5 @@
 Arkiv is a cyberpad, a touch-based cyberdeck. The arkiv is intended to house a library of offline knowledge. 
-This project is still in very eraly development. Current source files are published, more info to come.
+This project is still in very early development. Current source files are published, more info to come.
 
 <img width="2560" height="1387" alt="tablet reinforced shade v118" src="https://github.com/user-attachments/assets/cacd8979-a434-4ea6-9efc-37d688fbac2d" />
 
